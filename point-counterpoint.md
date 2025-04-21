@@ -1,73 +1,25 @@
-### 1. Giriş Paragrafı (Introduction)
+# \[Konu Başlığı\]
 
-- **Hook (Dikkat Çekici Başlangıç):**
+## Giriş Paragrafı (Introduction)
 
-  - "In today’s world, \[konu\] has become a widely debated topic."
-  - "It is often said that \[genel bir görüş\], but is this really the case?"
-  - "The issue of \[konu\] has sparked a heated discussion in recent years."
+- **Hook**: Did you know that \[konu\] affects \[etkileyici bir gerçek\] in our daily lives?
+- **Background**: \[Konu\], some argue, brings \[olumlu yön\], as it fosters \[olumlu etki\]. However, others criticize it for \[olumsuz yön\], pointing to \[olumsuz etki\] as a significant drawback.
+- **Thesis Statement**: While supporters claim \[destekleyici görüş\], I argue that \[konu\] is harmful due to \[nedenler\].
 
-- **Background (Arka Plan):**
+## Birinci Gelişme Paragrafı (Body Paragraph 1)
 
-  - "Generally speaking, \[konu\] is considered to be \[olumlu/olumsuz bir şey\]."
-  - "While some people believe \[bir görüş\], others argue that \[karşı görüş\]."
-  - "The impact of \[konu\] on \[ilgili alan\] is often discussed in terms of \[olumlu/olumsuz yönler\]."
+- **Argüman-1 (Destekleyici Görüş)**: Supporters argue that \[konu\] benefits \[alan\] because \[neden\]. They emphasize that \[konu\] leads to \[olumlu sonuç\].
+  - Kanıt: For instance, \[örnek/istatistik\].
+- **Karşıt Argüman-1 (Yazarın Çürütmesi)**: However, \[olumsuz sonuç\] shows that \[konu\] is harmful, as \[kanıt\]. This suggests that the benefits are overstated and fail to address \[zayıf yön\].
 
-- **Thesis Statement (Tez Cümlesi):**
+## İkinci Gelişme Paragrafı (Body Paragraph 2)
 
-  - "This essay will discuss both sides of the argument before presenting my own perspective."
-  - "In this essay, I will explore the advantages and disadvantages of \[konu\] to provide a balanced view."
-  - "While \[bir görüş\], I believe that \[kendi görüşün\] due to several reasons."
+- **Argüman-2 (Destekleyici Görüş)**: Additionally, supporters claim \[konu\] promotes \[fayda\] because \[neden\]. They argue that this makes \[konu\] essential for \[alan\].
+  - Kanıt: For example, \[örnek/gerçek\].
+- **Karşıt Argüman-2 (Yazarın Çürütmesi)**: Yet, \[olumsuz etki\] proves \[konu\] is damaging due to \[kanıt\]. This undermines the claim that \[konu\] is universally beneficial, highlighting \[eksik yön\].
 
----
+## Sonuç Paragrafı (Conclusion)
 
-### 2. Gelişme Paragrafı 1 (Point - Bir Görüşü Savunma)
-
-- **Argument 1 (Ana Fikir):**
-
-  - "To begin with, one of the main arguments in favor of \[konu\] is that \[neden\]."
-  - "Supporters of \[konu\] often argue that \[neden\]."
-  - "It is widely believed that \[konu\] can positively affect \[ilgili alan\] because \[neden\]."
-
-- **Evidence (Kanıt):**
-
-  - "For instance, research shows that \[örnek/istatistik\]."
-  - "A clear example of this can be seen in \[konuyla ilgili bir örnek\]."
-  - "This is supported by the fact that \[gerçek bir bilgi\]."
-
----
-
-### 3. Gelişme Paragrafı 2 (Counterpoint - Karşı Görüş)
-
-- **Counter-Argument (Karşı Fikir):**
-
-  - "On the other hand, critics of \[konu\] argue that \[karşı görüş\]."
-  - "However, some people believe that \[konu\] can lead to \[olumsuz sonuç\]."
-  - "Despite the advantages, there are certain drawbacks to \[konu\], such as \[neden\]."
-
-- **Evidence (Kanıt):**
-
-  - "For example, \[karşı görüşü destekleyen bir örnek\]."
-  - "This can be seen in \[gerçek bir durum/istatistik\]."
-  - "Moreover, \[ek bir olumsuz etki\] often occurs as a result of \[konu\]."
-
----
-
-### 4. Sonuç Paragrafı (Conclusion)
-
-- **Özet (Summary):**
-
-  - "In conclusion, both sides of the argument regarding \[konu\] have valid points."
-  - "To sum up, while \[bir görüş\], it is also true that \[karşı görüş\]."
-  - "After discussing both perspectives, it is clear that \[konu\] has both benefits and drawbacks."
-
-- **Restatement (Tezin Tekrarı):**
-
-  - "Personally, I believe that \[kendi görüşün\] because \[kısa bir neden\]."
-  - "In my opinion, the advantages of \[konu\] outweigh the disadvantages due to \[neden\]."
-  - "Although \[karşı görüş\], I am convinced that \[kendi görüşün\] for the following reasons: \[kısa neden\]."
-
-- **Final Thought (Son Düşünce):**
-
-  - "Ultimately, a balanced approach to \[konu\] could lead to a more effective outcome."
-  - "In the future, \[konuyla ilgili bir öneri\] might help address the concerns raised."
-  - "It is crucial to consider both perspectives to fully understand the impact of \[konu\]."
+- **Özet**: While \[destekleyici görüş\] is often highlighted, \[olumsuz etkiler\] demonstrate that the drawbacks of \[konu\] are too significant to ignore.
+- **Duruş**: I believe \[konu\] is harmful because \[kısa neden\].
+- **Kapanış**: To address this, \[öneri\] could reduce \[konu\]’s negative impacts, paving the way for a more balanced approach.
