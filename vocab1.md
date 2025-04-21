@@ -1,5 +1,3 @@
----
-
 ### **1. allow somebody to do something**  
 **Meaning:** Birinin bir şeyi yapmasına izin vermek.  
 **Examples:**
