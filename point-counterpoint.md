@@ -1,25 +1,19 @@
-# \[Konu Başlığı\]
+# [Konu Başlığı]
 
-## Giriş Paragrafı (Introduction)
+## Introduction
 
-- **Hook**: Did you know that \[konu\] affects \[etkileyici bir gerçek\] in our daily lives?
-- **Background**: \[Konu\], some argue, brings \[olumlu yön\], as it fosters \[olumlu etki\]. However, others criticize it for \[olumsuz yön\], pointing to \[olumsuz etki\] as a significant drawback.
-- **Thesis Statement**: While supporters claim \[destekleyici görüş\], I argue that \[konu\] is harmful due to \[nedenler\].
+What if [konu] has more negative effects than we realize? Some people think it brings benefits such as [olumlu yön]. However, others say it causes serious problems. I believe that [konu] does more harm than good because of [negatif nedenler].
 
-## Birinci Gelişme Paragrafı (Body Paragraph 1)
+## Body Paragraph 1
 
-- **Argüman-1 (Destekleyici Görüş)**: Supporters argue that \[konu\] benefits \[alan\] because \[neden\]. They emphasize that \[konu\] leads to \[olumlu sonuç\].
-  - Kanıt: For instance, \[örnek/istatistik\].
-- **Karşıt Argüman-1 (Yazarın Çürütmesi)**: However, \[olumsuz sonuç\] shows that \[konu\] is harmful, as \[kanıt\]. This suggests that the benefits are overstated and fail to address \[zayıf yön\].
+Some people believe that [konu] is helpful because it [olumlu yön]. For example, they say it supports [alan] and helps people with [fayda]. Events like [etkinlik örneği] show the positive side of it.  
+However, this positive view hides some serious problems. [Olumsuz sonuç] shows that [konu] causes damage to [alan/çevre/insanlar]. For instance, [örnek veya istatistik] proves that it is not always beneficial.
 
-## İkinci Gelişme Paragrafı (Body Paragraph 2)
+## Body Paragraph 2
 
-- **Argüman-2 (Destekleyici Görüş)**: Additionally, supporters claim \[konu\] promotes \[fayda\] because \[neden\]. They argue that this makes \[konu\] essential for \[alan\].
-  - Kanıt: For example, \[örnek/gerçek\].
-- **Karşıt Argüman-2 (Yazarın Çürütmesi)**: Yet, \[olumsuz etki\] proves \[konu\] is damaging due to \[kanıt\]. This undermines the claim that \[konu\] is universally beneficial, highlighting \[eksik yön\].
+Others also argue that [konu] creates opportunities, especially in [ülke/sektör]. It is true that it gives people jobs or helps the economy. For example, in [ülke], [istatistik veya bilgi].  
+Yet, many of these jobs are unfair or unsafe. People often work in bad conditions and earn very little money. A report shows that [olumsuz gerçek]. So, even though it seems helpful, the problems it causes are more serious.
 
-## Sonuç Paragrafı (Conclusion)
+## Conclusion
 
-- **Özet**: While \[destekleyici görüş\] is often highlighted, \[olumsuz etkiler\] demonstrate that the drawbacks of \[konu\] are too significant to ignore.
-- **Duruş**: I believe \[konu\] is harmful because \[kısa neden\].
-- **Kapanış**: To address this, \[öneri\] could reduce \[konu\]’s negative impacts, paving the way for a more balanced approach.
+In conclusion, although [konu] has some benefits, the negative effects are much greater. It harms [çevre, insanlar, toplum] and creates many risks. I believe strong rules and better practices are necessary to reduce the damage and find a better balance.
