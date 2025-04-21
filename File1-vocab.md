@@ -2,56 +2,6 @@
 
 This list contains vocabulary from **File 1** of the course material, including their **Turkish meanings** and **example sentences** from the PDF.
 
----
-
-## 🍳 Food & Cooking Vocabulary (Vocabulary Bank)
-
-| **English Word/Phrase** | **Turkish Meaning** | **Example Sentence** |
-| :---------------------- | :---------------------- | :---------------------------------------------------------- |
-| aubergine               | Patlıcan                | You need an aubergine for this pasta dish.                  |
-| avocado                 | Avokado                 | I like to put avocado in salad.                             |
-| baked                   | Fırında pişmiş          | I had a baked potato with tuna for my lunch.                |
-| beans                   | Fasulye                 | These beans are overcooked.                                 |
-| beef                    | Sığır eti               | We always eat roast beef on Sundays.                        |
-| beetroot                | Kırmızı pancar          | I always put beetroot in my salads.                         |
-| boiled                  | Haşlanmış               | I like to have boiled eggs for breakfast.                   |
-| cabbage                 | Lahana                  | I don't like the taste of cabbage.                          |
-| cherries                | Kiraz                   | Cherries are really delicious.                              |
-| chicken                 | Tavuk                   | Chicken is a low-fat meat.                                  |
-| courgette               | Kabak (yeşil)           | I used a courgette in this recipe.                          |
-| crab                    | Yengeç                  | Can I have a crab sandwich, please?                         |
-| cucumber                | Salatalık, hıyar        | I don't like the taste of cucumber.                         |
-| duck                    | Ördek                   | I love duck with orange sauce.                              |
-| egg                     | Yumurta                 | I had a fried egg for breakfast.                            |
-| fish                    | Balık                   | I love oily fish like salmon.                               |
-| fried                   | Kızarmış, kızartma      | Fried bread is too oily for me.                             |
-| fruit                   | Meyve                   | You should eat some fresh fruit every day.                  |
-| grapes                  | Üzüm                    | Do you prefer red or green grapes?                          |
-| grilled                 | Izgara                  | I would like the grilled steak, please.                     |
-| lamb                    | Kuzu eti                | I always order a lamb curry at that indian restaurant.      |
-| lemon                   | Limon                   | I always like to have some lemon with my fish.              |
-| lobster                 | Istakoz                 | I love fresh lobster when I go to the beach.                |
-| mango                   | Mango                   | Is there any mango in this fruit salad?                     |
-| meat                    | Et                      | My sister doesn't eat meat because she's a vegetarian.      |
-| melon                   | Kavun                   | This melon isn't sweet enough.                              |
-| mussels                 | Midye                   | We had some delicious mussels and chips in Belgium.         |
-| peach                   | Şeftali                 | I would like a peach for dessert, please.                   |
-| pear                    | Armut                   | Would you like a pear or an apple?                          |
-| pepper                  | Biber                   | We need one red pepper and one onion.                       |
-| pork                    | Domuz eti               | Many people do not eat pork in Morocco.                     |
-| potatoes                | Patates                 | We had baked potatoes for lunch.                            |
-| prawns                  | Karides                 | We had prawns with lemon juice and garlic.                  |
-| raspberries             | Ahududu                 | We had raspberries and ice cream.                           |
-| roast                   | Fırında kızartılmış, rosto | We always have roast potatoes on Sundays.                   |
-| salmon                  | Somon                   | Oily fish like salmon is very good for you.                 |
-| seafood                 | Deniz ürünleri          | My mum loves seafood, especially prawns and mussels.        |
-| squid                   | Kalamar                 | I ordered fried squid for my starter.                       |
-| steamed                 | Buharda pişmiş          | Steamed vegetables are very healthy.                        |
-| tuna                    | Ton balığı              | I made a tuna salad for my dinner.                          |
-| vegetable               | Sebze                   | Is an avocado a fruit or a vegetable?                       |
-
----
-
 ## 🙂 Personality Vocabulary (Vocabulary Bank)
 
 | **English Word/Phrase** | **Turkish Meaning** | **Example Sentence** |
