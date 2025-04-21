@@ -81,28 +81,3 @@ This list contains vocabulary from **File 3** of the course material (excluding 
 | talk to            | ile konuşmak                          | Can you talk to your brother about borrowing his car? [cite: 15, 16]        |
 | tired of           | -den yorulmak, bıkmak                 | I'm tired of working - I need to have a rest[cite: 15, 16].                |
 | worried about      | için endişelenmek                     | I'm worried about Jody - she seems really depressed[cite: 15, 16].         |
-
----
-
-## ✨ More Words & Phrases
-
-| **English Word/Phrase** | **Turkish Meaning** | **Example Sentence** |
-| :---------------------- | :------------------------------- | :-------------------------------------------------------------------------- |
-| ahead of                | -nın önünde                      | She stayed ahead of the other runner for the whole race[cite: 15, 19].     |
-| argue                   | Tartışmak, iddia etmek           | Scientists argue that our sense of humour has a purpose[cite: 15, 19].     |
-| crash into              | -e çarpmak                       | Be careful not to crash into that car in front! [cite: 15, 19]              |
-| discover                | Keşfetmek, bulmak                | Scientists discovered a gene that helps us communicate[cite: 15, 19].      |
-| find                    | Bulmak, keşfetmek                | An academic study found some interesting differences[cite: 15, 19].        |
-| generally               | Genellikle                       | I generally drink tea in the mornings[cite: 15, 19].                       |
-| get stuck               | Sıkışıp kalmak (trafikte)        | Do you often get stuck in traffic in the morning? [cite: 15, 19]            |
-| get worse               | Kötüleşmek, daha kötüye gitmek   | The traffic's getting worse! We're going to be late[cite: 15, 19].         |
-| in general              | Genel olarak                     | In general, the traffic is bad between 8am and 9am[cite: 15, 19].          |
-| likely                  | Muhtemel, olası                  | That makes it more likely you will lose control of the car[cite: 15, 19].  |
-| on the whole            | Genel olarak, genellikle         | On the whole, I think the speed limits are sensible[cite: 15, 19].         |
-| prove                   | Kanıtlamak, ispatlamak           | A new study proves that their argument is correct[cite: 15, 19].           |
-| show                    | Göstermek                        | The research shows that multitasking doesn't always work[cite: 15, 19].    |
-| tend                    | Eğiliminde olmak                 | People tend to get distracted when they drive and talk[cite: 15, 19].      |
-| turn around             | Geri dönmek, arkasını dönmek     | We're going the wrong way. We have to turn around[cite: 15, 19].           |
-| turn out                | Ortaya çıkmak, anlaşılmak        | It turns out that the cliché is true[cite: 15, 20].                        |
-| turn red                | Kırmızıya dönmek (ışık)          | The traffic lights will turn red very soon. Please stop[cite: 15, 20].     |
-| usually                 | Genellikle                       | I usually get to work by 8.30 a.m[cite: 15, 20].                           |
