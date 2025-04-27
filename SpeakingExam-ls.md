@@ -1,4 +1,4 @@
-```markdown
+
 # Speaking Exam Questions and Answers
 
 This document contains potential speaking exam questions and model answers in both English and Turkish. Use it for practice and upload to GitHub.
@@ -278,5 +278,4 @@ This document contains potential speaking exam questions and model answers in bo
 
 - **EN:** Advantages: short-term motivation and reward; disadvantages: undermines intrinsic motivation and may create entitlement.  
 - **TR:** Avantaj: kısa vadeli motivasyon ve ödül; dezavantaj: içsel motivasyonu zayıflatır ve ayrıcalık duygusu yaratabilir.
-```
 
